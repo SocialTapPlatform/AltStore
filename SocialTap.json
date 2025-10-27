@@ -1,0 +1,41 @@
+{
+  "name": "SocialTap",
+  "subtitle": "The only official Altstore SocialTap page",
+  "description": "",
+  "iconURL": "http://altstore.socialtap.social/FT54JG3.png",
+  "website": "https://socialtap.social",
+  "patreonURL": "",
+  "tintColor": "#000000",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "SocialTap Beta",
+      "bundleIdentifier": "social.SocialTap.beta",
+      "marketplaceID": "",
+      "developerName": "BrokenLH",
+      "subtitle": "Developer only SocialTap beta",
+      "localizedDescription": "This will only work if you have a approved SocialTap login, this is not meant for consumer use (yet).",
+      "iconURL": "http://altstore.socialtap.social/FT54JG3.png",
+      "tintColor": "#000000",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://socialtap.social/downloads/latestipa",
+          "size": 300000,
+          "version": "0.22",
+          "buildVersion": null,
+          "date": "2025-10-27T16:20:00-07:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
